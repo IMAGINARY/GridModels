@@ -1,6 +1,10 @@
-# Grid models
+# Earth grid models for exhibition use
 
-Grid models for use in the "10 minute museum on the mathematics of climate crisis", by IMAGINARY.
+Geometric grids of the surface of the sphere, as used in Earth sciences.
+
+This repository contains four Grid Models, providing geometric source data (vertices and edges positions), and 3D-printable realizations (adding thickness to the edges and structural consistency).
+
+Their primary use is in the "10-minute museum on the mathematics of climate crisis" by IMAGINARY.
 
 The grid models are the following:
 * Latitude and Longitude grid.
