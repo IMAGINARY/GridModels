@@ -4,7 +4,7 @@ Hexagonal Icosahedral grid.
 
 ![](img/render_hex-ico.png)
 
-### About
+### Credits
 Grid data prepared by Hilary Weller (University of Reading).
 
 Final stl file prepared by Oliver Labs.

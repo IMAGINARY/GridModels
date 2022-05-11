@@ -4,7 +4,7 @@ Latitude-Longitude grid.
 
 ![](img/render_latlon.png)
 
-### Source
-Grid data prepared by ?? ()
+### Credits
+Grid data prepared by Hilary Weller (University of Reading).
 
 Final stl file prepared by Oliver Labs.

@@ -4,7 +4,7 @@ Cubed Sphere grid.
 
 ![](img/render_cubed-sphere.png)
 
-### About
-Grid data prepared by ?? ()
+### Credits
+Grid data prepared by Hilary Weller (University of Reading).
 
 Final stl file prepared by Oliver Labs.
