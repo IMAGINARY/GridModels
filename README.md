@@ -14,6 +14,8 @@ The grid models are the following:
 
 On each respective folder you can find source data and 3D-printable final data (stl files).
 
+Text accompanying the 3D sculptures in the 10-minute museum can be found [here](Grid-model-texts.md).
+
 ## Credits
 
 Source data: Hilary Weller (University of Reading), Christian Kuehnlein (ECMWF)
